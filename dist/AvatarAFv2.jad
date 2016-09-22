@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.1
+Created-By: 1.7.0_60-b19 (Oracle Corporation)
+MIDlet-1: AvatarAF,/icon.png,main.GameMidlet
+MIDlet-Vendor: PHuongLinh
+MIDlet-Name: AvatarAF
+MIDlet-Version: 2.5.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+Nokia-MIDlet-no-exit: true
+MIDlet-Jar-Size: 776311
+MIDlet-Jar-URL: http://phuonglinh.tk/dist/AvatarAFv2.jar
